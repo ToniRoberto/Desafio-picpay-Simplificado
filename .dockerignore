@@ -1,0 +1,11 @@
+.git
+.gitignore
+.vscode
+.idea
+node_modules
+vendor
+.env
+*.log
+tests
+.phpunit.result.cache
+
